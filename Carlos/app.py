@@ -32,7 +32,7 @@ app.layout = html.Div(children=[
 							children=[
 								html.Div(className="four columns div-user-controls",
 									children = [
-										html.H2("Dash - Stock Prices"),
+										html.H2("Dash - Stock Prices in Time"),
 										html.P("""Visualising time series with 
 													Plotly - Dash"""),
 										html.P("""Pick one or more stocks 
