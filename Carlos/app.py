@@ -6,6 +6,7 @@ import dash_html_components as html
 import dash_core_components as dcc
 import plotly.express as px
 
+# example of commit
 
 # Import utilities
 import pandas as pd
