@@ -73,7 +73,7 @@ def get_options(list_stocks):
     return dict_list
 
 #
-
+# Is this the latest version of your dashboard?
 html.Div(className='div-for-dropdown',
           children=[
               dcc.Dropdown(id='stockselector',
